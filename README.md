@@ -28,3 +28,7 @@ Data structures and algorithms implementations in C/C++:
 > Heap
 > Priority-Queue
 ```
+4) Algorithms:
+```
+> Maximum sub-array problem (Kadanes, Iterative, Recursive)
+```
