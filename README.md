@@ -13,4 +13,11 @@ Data structures and algorithms implementations in C/C++:
 > Quick sort
 ```
 
-2) Data Structures
+2) Searching:
+```
+> Linear search
+> Binary search
+> Ternary search
+> Unimodal (ternary)
+```
+3) Data Structures
