@@ -20,4 +20,11 @@ Data structures and algorithms implementations in C/C++:
 > Ternary search
 > Unimodal (ternary)
 ```
-3) Data Structures
+3) Data Structures:
+```
+> Linked list
+> Stack
+> Queue
+> Heap
+> Priority-Queue
+```
