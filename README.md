@@ -32,4 +32,7 @@ Data structures and algorithms implementations in C/C++:
 ```
 [x] Maximum sub-array problem (Kadanes, Iterative, Recursive)
 [x] Rod Cutting (recursive, dynammic)
+[x] Binary Exponentiation
+[x] GCD with Euclidean 
+[x] Sieve of Eratosthenes
 ```
